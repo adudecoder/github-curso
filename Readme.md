@@ -7,3 +7,7 @@ Mais uma modificação no arquivo Redme.md
 
 Subindo commit pro GitHub
 
+Sujando o arquivo
+
+Testando tags
+
